@@ -36,7 +36,7 @@ I'm a highly motivated software developer with strong analytical thinking, fast 
 
 ## 🎓 Education
 
-**Software Engineering Diploma – Ministry of Labor (2023–2025)**  
+**Software Engineering Diploma – M.H.T (2023–2025)**  
 Specialization in Artificial Intelligence through UltraCode  
 **GPA:** 95+
 
